@@ -3,18 +3,18 @@
   "descrição": "Elminatorias copa 2022",
    "local": {
      "nome": "Estádio Jornalista Mário Filho (Maracanã)",
-     "imagem": "TODO"
+     "imagem": "https://classic.exame.com/wp-content/uploads/2019/03/maraca1.jpg?quality=70&strip=info&w=888"
    }
     "mandante": {
     "nome": "Brasil",
     "força": 5,
-    "imagem": "TODO"
+    "imagem": "https://cassiozirpoli.com.br/wp-content/uploads/2019/04/cbf_escudo_evolucao_ate_2019_700_1.jpg"
   }
   
     "visitante": {
     "nome": "Argentina",
     "força": 5,
-    "imagem": "TODO"
+    "imagem": "https://img.quizur.com/f/img5c0ff4825230a5.21359873.jpeg?lastEdited=1544549509"
   }
   }
  ]
